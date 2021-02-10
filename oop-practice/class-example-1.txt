@@ -1,0 +1,15 @@
+Class: School
+
+Attributes:
+principal: (string)
+isAdmitting: (boolean)
+numberOfStaff: (integer)
+classPopulation: (object)
+mathTeachers: (array)
+
+Methods:
+changePrincipal: (changes name of principal)
+closeAdmission: (changes isAdmitting to FALSE)
+addStaff: (increases numberOfStaff by 1)
+addFreshman: (adds incoming Freshman class to classPopulation)
+removeMathTeacher: (removes designated mathTeachers)x
