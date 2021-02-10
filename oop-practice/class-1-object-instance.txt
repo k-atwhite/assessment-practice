@@ -1,0 +1,15 @@
+Instance: woodstockHighSchool
+
+Attributes:
+principal = 'Mr. Tafoya'
+isAdmitting = true
+numberOfStaff = 57
+classPopulation = {freshman: 370, sophomore: 325, junior: 289, senior: 302}
+mathTeachers = ['Berger', 'Wooderson', 'Hanes', 'Ivers']
+
+Methods:
+changePrincipal: principal = 'Mrs. Berger'
+closeAdmission: isAdmitting = falese
+addStaff: numberOfStaff = 58
+addFreshman: classPopulation = {freshman: 362, sophomore: 325, junior: 289, senior: 302}
+removeMathTeacher: mathTeachers = [Wooderson', 'Hanes', 'Ivers']
